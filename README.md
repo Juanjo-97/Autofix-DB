@@ -34,3 +34,9 @@ El archivo `modelo/autofix_final_corregido.sql` contiene la creación de las tab
 1. Descarga `autofix_final_corregido.sql` desde la carpeta `modelo`.
 2. En MySQL Workbench, abre el archivo SQL.
 3. Ejecuta el script para revisar las tablas, relaciones y datos de prueba de la base `autofix`.
+
+## Dashboard de seguimiento en Jira
+
+Consulta el avance del proyecto AutoFix – Equipo 3, las actividades finalizadas y la distribución del trabajo entre los integrantes.
+
+[Ver Dashboard de AutoFix en Jira](https://autofix-cesun-equipo3.atlassian.net/jira/dashboards/10001)
